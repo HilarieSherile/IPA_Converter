@@ -1,0 +1,11 @@
+#Node.js dependencies 
+node_modules/
+
+*.logs #logs 
+
+.env # Environment files 
+
+#OS-specific files 
+.DS_Store 
+Thumbs.db
+
